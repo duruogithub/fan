@@ -1,8 +1,1 @@
-name: streamlit_env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.11
-  - streamlit
-  - pandas
-  - numpy
+
